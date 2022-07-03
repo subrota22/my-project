@@ -61,7 +61,7 @@ let questions = [
       {
         numb: 6,
         question: "What does MERN stand for?",
-        answer: "Mongodb Express.js React.js Node.js",
+        answer: "Mongodb Express React Node",
         options: [
           "Mongodb Express React Net",
           "Mongodb Example Router Node.js",
