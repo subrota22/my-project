@@ -65,7 +65,7 @@ let questions = [
         options: [
           "Mongodb Express React Net",
           "Mongodb Example Router Node.js",
-          "Mongodb Express.js React.js Node.js",
+          "Mongodb Express React Node",
           "Mongodb Express React Note"
         ]
       },
